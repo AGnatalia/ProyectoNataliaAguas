@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'LucidaGrande';
+    src: url(../estilos/fuentes/24003_LucidaGrande.ttf);
+}
+@font-face {
+    font-family: 'LiberationMono';
+    src: url(../estilos/fuentes/LiberationMono-Regular.ttf);
+}
+@font-face {
+    font-family: 'LucidaSansUnicode';
+    src: url(../estilos/fuentes/Lucida\ Sans\ Unicode.ttf);
+}
+@font-face {
+    font-family: 'Telefon';
+    src: url(../estilos/fuentes/telefontrial-light-webfont.woff2);
+}
+
